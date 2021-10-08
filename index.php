@@ -1,6 +1,6 @@
 <?php
 
-//Paso 2, Modifica index.php y haz el commit.
+// PASO 3 - Realiza un commit del fichero index.php
 
 
 ?>
